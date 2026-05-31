@@ -1,5 +1,5 @@
-# Dependencies
-node_modules/
+# Backend ki .env file ko ignore karne ke liye
+backend/.env
 
-# Environment Variables (Secrets)
-.env
+# Backend ke node_modules ko ignore karne ke liye
+backend/node_modules/
