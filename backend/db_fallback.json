@@ -1,0 +1,73 @@
+{
+  "users": [
+    {
+      "_id": "usr_w06jtc2y4",
+      "createdAt": "2026-05-26T06:34:03.148Z",
+      "role": "admin",
+      "name": "System Administrator",
+      "email": "admin@grievance.gov.in",
+      "password": "$2a$10$172yC7S4QY/pz4BVjRyyCu9/6M8rf4q.SSPbcJphsD0LOlEaS63wK"
+    },
+    {
+      "_id": "usr_4nt8qb581",
+      "createdAt": "2026-05-26T06:41:48.534Z",
+      "role": "citizen",
+      "name": "abgdd",
+      "email": "a@gmail.com",
+      "password": "$2a$10$aDV4rLz8S7Wp57.16NR70.Wzz2vdnhvlmy4Llvba4Fx1R3Hn1E.nm"
+    }
+  ],
+  "tickets": [
+    {
+      "_id": "tkt_xuqfuev5h",
+      "createdAt": "2026-05-26T06:35:06.976Z",
+      "updatedAt": "2026-05-26T06:43:40.625Z",
+      "status": "In Progress",
+      "remarks": "11",
+      "history": [
+        {
+          "status": "Pending",
+          "remarks": "Grievance submitted successfully.",
+          "updatedAt": "2026-05-26T06:35:06.976Z"
+        },
+        {
+          "status": "In Progress",
+          "remarks": "11",
+          "updatedAt": "2026-05-26T06:43:40.623Z"
+        }
+      ],
+      "ticketId": "GRV-989644",
+      "userId": null,
+      "name": "Anonymous",
+      "email": "",
+      "phone": "",
+      "title": "Water contamination in Sector 4",
+      "description": "The tap water has been dark brown and smelling bad since yesterday morning. This is a severe health hazard for the residents of Sector 4.",
+      "category": "Complaint",
+      "priority": "High (Level 3)"
+    },
+    {
+      "_id": "tkt_1hc5v79al",
+      "createdAt": "2026-05-31T12:31:56.625Z",
+      "updatedAt": "2026-05-31T12:31:56.625Z",
+      "status": "Pending",
+      "remarks": "",
+      "history": [
+        {
+          "status": "Pending",
+          "remarks": "Grievance submitted successfully.",
+          "updatedAt": "2026-05-31T12:31:56.622Z"
+        }
+      ],
+      "ticketId": "GRV-925386",
+      "userId": "usr_4nt8qb581",
+      "name": "abgdd",
+      "email": "a@gmail.com",
+      "phone": "",
+      "title": "Gas",
+      "description": "gas is the ",
+      "category": "Complaint",
+      "priority": "High (Level 3)"
+    }
+  ]
+}
