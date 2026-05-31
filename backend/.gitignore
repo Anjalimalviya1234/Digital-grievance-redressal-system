@@ -1,0 +1,5 @@
+# Backend ki .env file ko ignore karne ke liye
+backend/.env
+
+# Backend ke node_modules ko ignore karne ke liye
+backend/node_modules/
